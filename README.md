@@ -13,7 +13,4 @@
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white"/></a>
 </center>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MongusChoi&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MongusChoi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
